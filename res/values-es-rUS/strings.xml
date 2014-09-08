@@ -10,10 +10,10 @@
   <string name="backedup">" Copia de seguridad"</string>
   <string name="backup">Copia de seguridad</string>
   <string name="backupcomplete">Copia de seguridad completa.</string>
-  <string name="backuperror">Imposible realizar copia de seguridad.</string>
+  <string name="backuperror">Imposible de realizar una copia de seguridad.</string>
   <string name="bookmark">Favoritos</string>
   <string name="bookmarkadded">Favorito añadido.</string>
-  <string name="bookmarkexist">Este marcador ya existe!</string>
+  <string name="bookmarkexist">Este favorito ya existe!</string>
   <string name="calcinfo">Calculando información</string>
   <string name="cancel">Cancelar</string>
   <string name="cannotbeundoneareyousureyouwanttodelete">"Esta operación no se puede deshacer!"</string>
@@ -21,7 +21,7 @@
   <string name="choosefiles">Seleccionar archivos</string>
   <string name="copiedtoclipboard">Copiado al portapapeles.</string>
   <string name="copy">Copiar</string>
-  <string name="copyfail">Copia fallida!</string>
+  <string name="copyfail">No se pudo copiar!</string>
   <string name="copying">Copiando</string>
   <string name="copysuccsess">Copiado con éxito.</string>
   <string name="create">Crear</string>
@@ -75,7 +75,7 @@
   <string name="Numberoffiles">Número de archivos:</string>
   <string name="Numberoffolders">Número de carpetas:</string>
   <string name="of">" de "</string>
-  <string name="ok">Aceptar</string>
+  <string name="ok">OK</string>
   <string name="openas">Abierto como</string>
   <string name="options">Opciones</string>
   <string name="packing">Embalaje</string>
