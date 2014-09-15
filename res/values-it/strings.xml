@@ -38,8 +38,8 @@
   <string name="detailed">Dettagliato</string>
   <string name="details">Dettagli</string>
   <string name="dir_info">Informazioni sulla cartella</string>
-  <string name="drawer_open">Open navigation drawer</string>
-  <string name="drawer_close">Close navigation drawer</string>
+  <string name="drawer_open">Apri il pannello di navigazione</string>
+  <string name="drawer_close">Chiudi il pannello di navigazione</string>
   <string name="error">Errore</string>
   <string name="extract">Estrai</string>
   <string name="extractto">Estrai in</string>

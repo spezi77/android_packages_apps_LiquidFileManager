@@ -15,7 +15,7 @@
   <string name="bookmarkadded">Lesezeichen hinzugefügt.</string>
   <string name="bookmarkexist">Lesezeichen existiert bereits!</string>
   <string name="calcinfo">Berechne Informationen</string>
-  <string name="cancel">zurück</string>
+  <string name="cancel">Abbrechen</string>
   <string name="cannotbeundoneareyousureyouwanttodelete">"Dies kann nicht rückgängig gemacht werden!"</string>
   <string name="cantreadfolder">Aufgrund fehlender Berechtigungen kann dieser Ordner nicht gelesen werden.</string>
   <string name="choosefiles">Dateien auswählen</string>
@@ -38,8 +38,8 @@
   <string name="detailed">Detailliert</string>
   <string name="details">Details</string>
   <string name="dir_info">Ordner-Informationen</string>
-  <string name="drawer_open">Open navigation drawer</string>
-  <string name="drawer_close">Close navigation drawer</string>
+  <string name="drawer_open">Navigationsleiste öffnen</string>
+  <string name="drawer_close">Navigationsleiste schließen</string>
   <string name="error">Fehler</string>
   <string name="extract">Entpacken</string>
   <string name="extractto">Extrahieren nach</string>
