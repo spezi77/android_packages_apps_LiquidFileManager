@@ -8,8 +8,7 @@
   <string name="appsdeleted">Apps removido do cartão SD</string>
   <string name="AvaibleSize">Tamanho total:</string>
   <string name="backedup">"Copia de segurança"</string>
-  <string name="backup">
-Backup</string>
+  <string name="backup">Backup</string>
   <string name="backupcomplete">Backup completo.</string>
   <string name="backuperror">Não é possível fazer backup.</string>
   <string name="bookmark">Marcador</string>
