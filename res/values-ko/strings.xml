@@ -27,7 +27,7 @@
   <string name="create">만들기</string>
   <string name="createbookmark">북마크 만들기</string>
   <string name="created">" 만들어졌습니다."</string>
-  <string name="createmsg">Set a period before the text to create hidden folder.</string>
+  <string name="createmsg">숨겨진 폴더를 만들려면 텍스트 기간을 설정합니다.</string>
   <string name="createnewfolder">새 폴더 만들기</string>
   <string name="defaultdir">기본 디렉토리</string>
   <string name="delete">제거</string>
@@ -102,7 +102,7 @@
   <string name="sorrycouldntfindapdfviewver">PDF 뷰어를 찾지 못했습니다.</string>
   <string name="sort">정렬</string>
   <string name="text">텍스트</string>
-  <string name="toopen">" to open "</string>
+  <string name="toopen">"오픈"</string>
   <string name="type">타입</string>
   <string name="uisettings">설정 보기</string>
   <string name="uninstallapp">앱 제거</string>
